@@ -1,2 +1,2 @@
 # PipeRecorder
-A C++ library that generates videos by sending frame buffer via pipe
+A C++ library that generates videos by sending frame buffer via pipe to ffmpeg
